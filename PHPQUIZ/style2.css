@@ -1,0 +1,70 @@
+<style type = "text/css">
+#container {
+height:250px;
+width:960;
+position:absoloute;
+border-radius:7px;
+border: 1px solid black;
+	overflow:hidden;
+	display: block;
+ margin:auto;
+	
+}
+#img {
+height:380px;
+width:1275px;
+
+position:absoloute;
+margin: auto;
+	padding: 0px 0px 0px;
+left:-200px;
+	
+
+
+}
+#img h2 {
+position:absoloute;
+margin: auto;
+ text-align: center;
+
+
+
+
+}
+#left_holder{
+height:350px;
+width:650px;
+position:absolute;
+left:15px;
+top:150px;
+}
+#right_holder{
+height:350px;
+width:650px;
+position:absolute;
+right:25px;
+top:150px;
+}
+.left {
+height:30px;
+width:30px;
+position:absolute;
+top:70%;
+left:0px;
+
+	transition: all .2s ease-in-out 0s;
+
+}
+.right {
+height:30px;
+width:30px;
+position:absolute;
+top:70%;
+right:0px;
+
+	transition: all .5s ease-in-out 0s;
+}
+
+
+
+</style>

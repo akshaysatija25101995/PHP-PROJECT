@@ -1,0 +1,35 @@
+
+html,body{height:50%;}
+#wrap{min-height:50%;position:relative; clear: left;}
+
+#article {
+     margin-left: 150px;
+    border-left: 1px solid gray;
+    padding: 0px;
+    overflow: hidden;
+text-decoration: none;
+ float: left;
+ background-color: black;
+
+}
+
+p {
+  color: black;
+  font-size: 20px;
+ text-transform: uppercase;
+background-color: lightgrey;
+ text-indent: 20px;
+
+
+}
+h1 {
+text-align: center;
+line-height: 1.8;
+ 
+}
+
+#footer{
+height:80px;background-color:lightgray;font-size:25px;
+text-align: center; line-height: 3.5;
+position:absoloute;width:100%;bottom:125;left:0;
+}
